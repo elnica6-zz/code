@@ -1,0 +1,6 @@
+{
+  "Domain": "my.domain.com",
+  "Username": "domainjoinuser",
+  "Password": "",
+  "OUPath": "OU=Role,OU=AppTeam,OU=BusinessUnit,OU=Servers,DC=my,DC=domain,DC=com"
+}
